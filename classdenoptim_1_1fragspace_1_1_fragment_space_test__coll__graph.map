@@ -1,0 +1,13 @@
+<map id="denoptim.fragspace.FragmentSpaceTest" name="denoptim.fragspace.FragmentSpaceTest">
+<area shape="rect" id="node1" title="Unit test for fragment space." alt="" coords="855,74,1048,115"/>
+<area shape="rect" id="node2" title=" " alt="" coords="621,5,663,32"/>
+<area shape="rect" id="node3" title=" " alt="" coords="607,56,677,83"/>
+<area shape="rect" id="node4" href="$enumdenoptim_1_1graph_1_1_vertex_1_1_b_b_type.html" title="The type of building block." alt="" coords="543,107,741,133"/>
+<area shape="rect" id="node5" href="$classdenoptim_1_1graph_1_1_a_p_class.html" title=" " alt="" coords="560,267,724,293"/>
+<area shape="rect" id="node6" title=" " alt="" coords="191,165,269,192"/>
+<area shape="rect" id="node7" title=" " alt="" coords="148,216,312,243"/>
+<area shape="rect" id="node8" title=" " alt="" coords="127,267,333,293"/>
+<area shape="rect" id="node9" title=" " alt="" coords="140,318,320,359"/>
+<area shape="rect" id="node10" href="$enumdenoptim_1_1graph_1_1_edge_1_1_bond_type.html" title="Possible chemical bond types an edge can represent." alt="" coords="129,384,331,411"/>
+<area shape="rect" id="node11" title=" " alt="" coords="5,384,61,411"/>
+</map>

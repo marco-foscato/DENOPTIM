@@ -1,0 +1,7 @@
+<map id="denoptim.fragmenter.FragmentAlignement.FragmentAlignement" name="denoptim.fragmenter.FragmentAlignement.FragmentAlignement">
+<area shape="rect" id="node1" title="Constructor for an alignment of two fragments." alt="" coords="5,71,216,112"/>
+<area shape="rect" id="node2" href="$classdenoptim_1_1graph_1_1_fragment_isomorphism_inspector.html#adda9ae414e7bcde531d4c7914539791b" title=" " alt="" coords="264,5,507,47"/>
+<area shape="rect" id="node3" href="$classdenoptim_1_1graph_1_1_frag_isomorph_node.html#a408974ea1788fc8bd1e7082aa56eadef" title=" " alt="" coords="289,71,482,112"/>
+<area shape="rect" id="node5" href="$classdenoptim_1_1graph_1_1_fragment_isomorphism_inspector.html#a7170efe46e1730c48fe2dbf1d5a0aefc" title=" " alt="" coords="264,136,507,177"/>
+<area shape="rect" id="node4" href="$classdenoptim_1_1utils_1_1_molecule_utils.html#ac74037442de1ef05310f5e6fa79f7fb0" title="Return the 3D coordinates, if present." alt="" coords="555,71,760,112"/>
+</map>

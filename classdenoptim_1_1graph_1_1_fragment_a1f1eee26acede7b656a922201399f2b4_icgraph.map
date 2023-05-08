@@ -1,0 +1,52 @@
+<map id="denoptim.graph.Fragment.addAP" name="denoptim.graph.Fragment.addAP">
+<area shape="rect" id="node1" title="Adds an attachment point with a dummy APClass." alt="" coords="915,1967,1125,1993"/>
+<area shape="rect" id="node2" href="$classdenoptim_1_1graph_1_1_fragment.html#a25e45b22a20adcc72ee6f599a7694b0f" title="Add an attachment point to the specifies atom." alt="" coords="641,575,833,617"/>
+<area shape="rect" id="node22" href="$classdenoptim_1_1ga_1_1_graph_operations_test.html#a51714d8c8f32f1fc1be324ffe8f6ec2d" title=" " alt="" coords="640,1175,833,1217"/>
+<area shape="rect" id="node24" href="$classdenoptim_1_1graph_1_1_template_test.html#a2bb7471fdd81079cdf32ed268822f10a" title="The coordinates hard coded in this method must not be changed because they are needed to reproduce re..." alt="" coords="629,1241,844,1282"/>
+<area shape="rect" id="node26" href="$classdenoptim_1_1fragspace_1_1_fragment_space_test.html#a898d3b8e26eb567fedb7b3cbf99504ff" title=" " alt="" coords="640,1371,833,1413"/>
+<area shape="rect" id="node28" href="$classdenoptim_1_1graph_1_1_template_test.html#afa85545bfdc92e68f953d6a97c4d83cf" title="The coordinates hard coded in this method must not be changed because they are needed to reproduce re..." alt="" coords="629,1306,844,1347"/>
+<area shape="rect" id="node29" href="$classdenoptim_1_1graph_1_1_template_test.html#a5d96f03d4352d04d0a71b88d35b93de5" title=" " alt="" coords="629,1437,844,1478"/>
+<area shape="rect" id="node30" href="$classdenoptim_1_1fragmenter_1_1_fragmenter_tools.html#a599425eeb03dc747fddb35abbe28e759" title=" " alt="" coords="632,1502,841,1543"/>
+<area shape="rect" id="node31" href="$classdenoptim_1_1fragspace_1_1_fragment_space_test.html#a83db205c77c8b486a13fbf8afd9069b1" title=" " alt="" coords="640,1567,833,1609"/>
+<area shape="rect" id="node32" href="$classdenoptim_1_1graph_1_1_d_graph_test.html#a61d74783955e34e5003eb9c495f86fd4" title="Build a graph meant to be used in unit tests." alt="" coords="627,1633,846,1674"/>
+<area shape="rect" id="node33" href="$classdenoptim_1_1graph_1_1rings_1_1_path_sub_graph_test.html#ace88ac9b173816aff6d93f41a1323266" title="Build a graph meant to be used in unit tests." alt="" coords="631,1698,842,1739"/>
+<area shape="rect" id="node34" href="$classdenoptim_1_1graph_1_1_d_graph_test.html#a1a2cc5c4d9ac6a66dc8f7baef0f3528f" title="Build a graph meant to be used in unit tests." alt="" coords="627,1763,846,1805"/>
+<area shape="rect" id="node35" href="$classdenoptim_1_1graph_1_1rings_1_1_path_sub_graph_test.html#a8fc97bebc417b6e412be5e083c264211" title="Build a graph meant to be used in unit tests." alt="" coords="631,1829,842,1870"/>
+<area shape="rect" id="node36" href="$classdenoptim_1_1fragmenter_1_1_fragment_clusterer_test.html#aa17925160f3f03080e8680c7016fc1c4" title=" " alt="" coords="637,1894,836,1935"/>
+<area shape="rect" id="node37" href="$classdenoptim_1_1fragmenter_1_1_fragment_clusterer_test.html#acb2fe702b9d02d39a38ca1cc732c9ee4" title=" " alt="" coords="637,1959,836,2001"/>
+<area shape="rect" id="node38" href="$classdenoptim_1_1graph_1_1_attachment_point_test.html#afb83fb2ca67c9375f299a24ca787b9c7" title=" " alt="" coords="607,2025,867,2066"/>
+<area shape="rect" id="node39" href="$classdenoptim_1_1graph_1_1_attachment_point_test.html#a582ae9ff2fcac313e9041b51f6d3bf70" title=" " alt="" coords="607,2089,867,2145"/>
+<area shape="rect" id="node40" href="$classdenoptim_1_1molecularmodeling_1_1_three_dim_tree_builder_test.html#a1aea42a3aa474b25c0edc4541509f8f7" title=" " alt="" coords="607,2169,867,2225"/>
+<area shape="rect" id="node41" href="$classdenoptim_1_1fragmenter_1_1_conformer_extractor_task_test.html#a2dc64f375774087fc0b4511384f50bc9" title=" " alt="" coords="607,2249,866,2305"/>
+<area shape="rect" id="node42" href="$classdenoptim_1_1fragmenter_1_1_fragmenter_tools_test.html#a89f5b1a54c881467b9a78101d08c1306" title=" " alt="" coords="632,2329,841,2370"/>
+<area shape="rect" id="node43" href="$classdenoptim_1_1fragmenter_1_1_dynamic_centroid_cluster_test.html#aafed3e3048038cfe0a17feeb5d728a13" title=" " alt="" coords="621,2394,852,2435"/>
+<area shape="rect" id="node44" href="$classdenoptim_1_1fragmenter_1_1_fragment_alignement_test.html#ad46b9a4324bb5b9bbfc08c73de0e1124" title=" " alt="" coords="611,2459,862,2501"/>
+<area shape="rect" id="node45" href="$classdenoptim_1_1fragmenter_1_1_dynamic_centroid_cluster_test.html#a8e2fd50e0c8a9163b1a831baa3976935" title=" " alt="" coords="622,2524,851,2580"/>
+<area shape="rect" id="node46" href="$classdenoptim_1_1fragmenter_1_1_clusterable_fragment_test.html#a30be40702849bf4781129bf3dabf88e8" title=" " alt="" coords="611,2603,862,2645"/>
+<area shape="rect" id="node47" href="$classdenoptim_1_1graph_1_1_d_graph_test.html#adc3ee631a1671aa9ffd5ea3cef73b279" title=" " alt="" coords="633,2669,841,2710"/>
+<area shape="rect" id="node48" href="$classdenoptim_1_1graph_1_1_d_graph_test.html#a42ea1a0adbc30b78070c3096171094a9" title=" " alt="" coords="633,2734,841,2775"/>
+<area shape="rect" id="node49" href="$classdenoptim_1_1fragmenter_1_1_clusterable_fragment_test.html#a005eef46f866621d14a17a9c439bb342" title=" " alt="" coords="610,2799,863,2841"/>
+<area shape="rect" id="node50" href="$classdenoptim_1_1graph_1_1_attachment_point_test.html#ab3ec3ba7ebaaa69204c2368187a01f6f" title=" " alt="" coords="647,2865,827,2906"/>
+<area shape="rect" id="node3" href="$classdenoptim_1_1graph_1_1_fragment.html#ad4e8fdd45d167a3802ea50582b478960" title="Add an attachment point to the specifies atom." alt="" coords="324,5,535,32"/>
+<area shape="rect" id="node4" href="$classdenoptim_1_1fragspace_1_1_fragment_space_test.html#ae401cb5105c9afd41d058685eb051869" title=" " alt="" coords="326,57,533,98"/>
+<area shape="rect" id="node5" href="$classdenoptim_1_1fragspace_1_1_fragment_space_test.html#a692723b803a64dd25e775b2f8726fe27" title="Works with this graph:" alt="" coords="5,79,252,135"/>
+<area shape="rect" id="node6" href="$classdenoptim_1_1gui_1_1_g_u_i_vertex_inspector.html#a6b60be1b437b1d21334d39d003c14249" title="Removes an atom and replaces it with an attachment point." alt="" coords="300,174,559,215"/>
+<area shape="rect" id="node7" href="$classdenoptim_1_1utils_1_1_molecule_utils.html#ae0fc307ce14bc73de8cb51459e122392" title="Selects only the atoms that originate from a subgraph of a whole graph that originated the whole mole..." alt="" coords="316,239,543,281"/>
+<area shape="rect" id="node8" href="$classdenoptim_1_1fragmenter_1_1_fragmenter_tools.html#a37c0e44680ec1c54fcff98dae0832a50" title="Chops one chemical structure by applying the given cutting rules." alt="" coords="325,305,534,346"/>
+<area shape="rect" id="node9" href="$classdenoptim_1_1graph_1_1_fragment_test.html#a198cffde4134eecf80f3eba650efc5ba" title=" " alt="" coords="315,370,544,411"/>
+<area shape="rect" id="node10" href="$classdenoptim_1_1graph_1_1_fragment_test.html#a8bff8b7d1c409ddc9a55707f4e67f427" title=" " alt="" coords="315,487,544,529"/>
+<area shape="rect" id="node11" href="$classdenoptim_1_1graph_1_1_symmetric_a_ps_test.html#a9425bd6d6e87f4d8ff966498564a3633" title=" " alt="" coords="31,454,226,495"/>
+<area shape="rect" id="node12" href="$classdenoptim_1_1graph_1_1_symmetric_a_ps_test.html#a90b0920db91160f9d8f797d5167e39de" title=" " alt="" coords="41,533,216,574"/>
+<area shape="rect" id="node13" href="$classdenoptim_1_1graph_1_1_fragment_test.html#ae2ae980f38f76b7681a4e967d4cbdb4f" title="Differs from the fragment produced by makeFragmentA() only by the identity of one atom." alt="" coords="315,605,544,646"/>
+<area shape="rect" id="node14" href="$classdenoptim_1_1graph_1_1_fragment_test.html#a63f6f06d84a8b731e131034a8e24c238" title="Differs from the fragment produced by makeFragmentA() only by the one APCLass." alt="" coords="315,670,544,711"/>
+<area shape="rect" id="node15" href="$classdenoptim_1_1io_1_1_denoptim_i_o_test.html#a7710e822a7212af405b83c4693ace410" title=" " alt="" coords="324,735,535,777"/>
+<area shape="rect" id="node16" href="$classdenoptim_1_1graph_1_1_vertex_test.html#ab36c441c57e9852e2be6d810d80fbc87" title=" " alt="" coords="329,801,530,842"/>
+<area shape="rect" id="node17" href="$classdenoptim_1_1graph_1_1_fragment_test.html#a12552fabbb6c8af399da78f10279fce2" title=" " alt="" coords="320,866,539,907"/>
+<area shape="rect" id="node18" href="$classdenoptim_1_1graph_1_1_fragment_test.html#a6494b234f01c4cf298d123dc59e047d6" title=" " alt="" coords="320,931,539,973"/>
+<area shape="rect" id="node19" href="$classdenoptim_1_1graph_1_1_attachment_point_test.html#af88d30ce68477984fe6179325d1540b2" title=" " alt="" coords="309,997,549,1038"/>
+<area shape="rect" id="node20" href="$classdenoptim_1_1graph_1_1_attachment_point_test.html#a4889032266eb87d0f91af8b4e9869360" title=" " alt="" coords="323,1062,535,1103"/>
+<area shape="rect" id="node21" href="$classdenoptim_1_1io_1_1_denoptim_i_o_test.html#a92ea09ddfe9f40627e43ce087f160e12" title=" " alt="" coords="324,1127,535,1169"/>
+<area shape="rect" id="node23" href="$classdenoptim_1_1ga_1_1_graph_operations_test.html#af7dad44701e1c81c71d47052733822fd" title="Returns a molecule consisting of two pairs of fused rings connected by an oxygen atom." alt="" coords="333,1193,526,1234"/>
+<area shape="rect" id="node25" href="$classdenoptim_1_1graph_1_1_template_test.html#a24cb0acd547ff1ce40433455a0c593a3" title="Builds a template object meant for tests." alt="" coords="322,1290,537,1331"/>
+<area shape="rect" id="node27" href="$classdenoptim_1_1fragspace_1_1_fragment_space_test.html#a86c3b01084322d2c465809840d7a3122" title=" " alt="" coords="333,1453,526,1494"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="denoptim.gui.CompatibilityMatrixForm.TrgRemovalListener" name="denoptim.gui.CompatibilityMatrixForm.TrgRemovalListener">
+<area shape="rect" id="node1" title="Listens for clicks that require removal of a compatible APClass (i.e., the target APClass) from the e..." alt="" coords="828,74,1035,115"/>
+<area shape="rect" id="node2" title=" " alt="" coords="544,56,705,83"/>
+<area shape="rect" id="node3" href="$classdenoptim_1_1graph_1_1_a_p_class.html" title=" " alt="" coords="543,107,707,133"/>
+<area shape="rect" id="node4" title=" " alt="" coords="191,5,269,32"/>
+<area shape="rect" id="node5" title=" " alt="" coords="148,56,312,83"/>
+<area shape="rect" id="node6" title=" " alt="" coords="127,107,333,133"/>
+<area shape="rect" id="node7" title=" " alt="" coords="140,158,320,199"/>
+<area shape="rect" id="node8" href="$enumdenoptim_1_1graph_1_1_edge_1_1_bond_type.html" title="Possible chemical bond types an edge can represent." alt="" coords="129,224,331,251"/>
+<area shape="rect" id="node9" title=" " alt="" coords="5,224,61,251"/>
+</map>

@@ -1,0 +1,24 @@
+<map id="denoptim.graph.rings.CyclicGraphHandler.RingSizeManager" name="denoptim.graph.rings.CyclicGraphHandler.RingSizeManager">
+<area shape="rect" id="node1" title="Utility class to calculate and manage the alternative ring sizes achievable by formation of DENOPTIMR..." alt="" coords="1037,162,1244,203"/>
+<area shape="rect" id="node2" title=" " alt="" coords="711,5,823,32"/>
+<area shape="rect" id="node3" title=" " alt="" coords="241,66,417,107"/>
+<area shape="rect" id="node8" href="$classdenoptim_1_1fragspace_1_1_fragment_space.html" title="Class defining a space of building blocks." alt="" coords="671,345,864,386"/>
+<area shape="rect" id="node4" title=" " alt="" coords="699,119,835,145"/>
+<area shape="rect" id="node5" title=" " alt="" coords="696,169,839,196"/>
+<area shape="rect" id="node6" title=" " alt="" coords="672,221,863,262"/>
+<area shape="rect" id="node7" title=" " alt="" coords="699,287,835,313"/>
+<area shape="rect" id="node16" href="$classdenoptim_1_1fragspace_1_1_fragment_space_parameters.html" title="Parameters defining the fragment space." alt="" coords="1044,537,1237,578"/>
+<area shape="rect" id="node9" title=" " alt="" coords="211,148,446,204"/>
+<area shape="rect" id="node10" title=" " alt="" coords="212,227,445,269"/>
+<area shape="rect" id="node11" title=" " alt="" coords="225,293,432,320"/>
+<area shape="rect" id="node12" title=" " alt="" coords="235,345,423,386"/>
+<area shape="rect" id="node13" title=" " alt="" coords="230,410,427,451"/>
+<area shape="rect" id="node14" title=" " alt="" coords="231,475,426,531"/>
+<area shape="rect" id="node15" title=" " alt="" coords="239,554,419,595"/>
+<area shape="rect" id="node17" href="$classdenoptim_1_1programs_1_1_run_time_parameters.html" title="Collection of parameters controlling the behavior of the software." alt="" coords="674,663,861,705"/>
+<area shape="rect" id="node18" title=" " alt="" coords="297,620,360,647"/>
+<area shape="rect" id="node19" href="$classdenoptim_1_1utils_1_1_randomizer.html" title="Tool to generate random numbers and random decisions." alt="" coords="242,671,415,697"/>
+<area shape="rect" id="node20" title=" " alt="" coords="5,671,128,697"/>
+<area shape="rect" id="node21" title=" " alt="" coords="195,721,463,777"/>
+<area shape="rect" id="node22" href="$enumdenoptim_1_1programs_1_1_run_time_parameters_1_1_parameters_type.html" title="Identifier of the type of parameters." alt="" coords="235,801,422,842"/>
+</map>
